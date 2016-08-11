@@ -1,0 +1,29 @@
+{
+    "name": "den67rus/yii2-jquery-hover-intent",
+    "description": "This is widget wrapper of hoverIntent https://github.com/briancherne/jquery-hoverIntent for Yii2.",
+    "keywords": ["yii2", "extension", "widget", "hoverIntent"],
+    "homepage": "https://github.com/den67rus/yii2-jquery-hover-intent",
+    "type": "yii2-extension",
+    "license": "Apache 2.0 License",
+    "authors": [
+        {
+            "name": "Denis Sevostyanov",
+            "email": "den67rus@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.0",
+        "bower-asset/jquery-hoverintent": "~1.8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "den67rus\\jqueryHoverIntent\\": ""
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
