@@ -4,7 +4,7 @@
     "keywords": ["yii2", "extension", "widget", "hoverIntent"],
     "homepage": "https://github.com/den67rus/yii2-jquery-hover-intent",
     "type": "yii2-extension",
-    "license": "Apache 2.0 License",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Denis Sevostyanov",
